@@ -1,3 +1,9 @@
+'''
+Created by Sasi Ravipati 
+Email Automation using Python
+'''
+
+
 import pandas as pd
 import smtplib
 
